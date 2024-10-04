@@ -10,6 +10,7 @@ public class AllMemesList {
             new MemeSound("Nigger","oldspice", "Настроение", R.raw.a5, R.drawable.a5),
             new MemeSound("Телефон","?", "Настроение", R.raw.a6, R.drawable.a6),
             new MemeSound("СЛАВЯНСКИЙ ЗАЖИМ ЯЙЦАМИ","Русь", "Русы и ящеры", R.raw.a7, R.drawable.a7),
-            new MemeSound("Зря я туда полез","КотБегемот", "Страшилки", R.raw.a8, R.drawable.a8),
+            new MemeSound("Ох, зря я туда полез","КотБегемот", "Страшилки", R.raw.a8, R.drawable.a8),
+            new MemeSound("Система поиска пидорасов","?", "Геи, прикол", R.raw.a27, R.drawable.a27)
     };
 }
