@@ -6,6 +6,8 @@ import android.media.AudioAttributes;
 import android.media.SoundPool;
 import android.os.Bundle;
 import android.os.Handler;
+import android.text.Editable;
+import android.text.TextWatcher;
 import android.util.Log;
 import android.widget.EditText;
 
@@ -17,6 +19,7 @@ import androidx.core.view.WindowInsetsCompat;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -32,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_main);
@@ -44,6 +48,27 @@ public class MainActivity extends AppCompatActivity {
         recyclerView = findViewById(R.id.rv);
         editText = findViewById(R.id.et);
         resourcesLoader = getResources();
+
+        editText.addTextChangedListener(new TextWatcher() {
+            @Override
+            public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {}
+            @Override
+            public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {}
+            @Override
+            public void afterTextChanged(Editable editable) {
+                List<MemeSound> nigger = new ArrayList<>();
+
+                for (MemeSound meme: AllMemesList.All) {
+                    if (meme.filterChecked(editText.getText().toString())) {
+                        nigger.add(meme);
+                    }
+                }
+
+                adapter = new MemeSoundAdapter(MainActivity.this, nigger);
+
+                recyclerView.setAdapter(adapter);
+            }
+        });
 
         THIS = this;
 
@@ -79,4 +104,6 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
         }
     }
+
+    // Паша-Паша лысый гей, он насилует детей
 }

@@ -1,5 +1,7 @@
 package com.example.memes_for_everything;
 
+import java.util.Locale;
+
 public class MemeSound {
 
     public String Name;
@@ -16,7 +18,8 @@ public class MemeSound {
         image_id = image;
     }
 
-    public boolean filterChecked() {
-        return true;
+    public boolean filterChecked(String search) {
+        search = search.toLowerCase(Locale.ROOT);
+        return Name.contains(search) || Source.contains(search) || Theme.contains(search);
     }
 }
