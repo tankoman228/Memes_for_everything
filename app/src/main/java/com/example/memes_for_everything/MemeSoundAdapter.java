@@ -31,6 +31,7 @@ public class MemeSoundAdapter extends RecyclerView.Adapter<MemeSoundAdapter.View
     public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
         MemeSound memeSound = memeSounds.get(position);
         holder.soundName.setText(memeSound.Name);
+        holder.soundSrc.setText(memeSound.Source);
         holder.imageButton.setImageResource(memeSound.image_id);
 
         holder.imageButton.setOnClickListener(v -> {
@@ -46,11 +47,13 @@ public class MemeSoundAdapter extends RecyclerView.Adapter<MemeSoundAdapter.View
     public static class ViewHolder extends RecyclerView.ViewHolder {
         ImageButton imageButton;
         TextView soundName;
+        TextView soundSrc;
 
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
             imageButton = itemView.findViewById(R.id.image_button);
             soundName = itemView.findViewById(R.id.sound_name);
+            soundSrc = itemView.findViewById(R.id.sound_source);
         }
     }
 }
