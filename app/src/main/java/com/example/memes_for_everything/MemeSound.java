@@ -20,6 +20,9 @@ public class MemeSound {
 
     public boolean filterChecked(String search) {
         search = search.toLowerCase(Locale.ROOT);
-        return Name.contains(search) || Source.contains(search) || Theme.contains(search);
+        return
+                Name.toLowerCase(Locale.ROOT).contains(search) ||
+                Source.toLowerCase(Locale.ROOT).contains(search) ||
+                Theme.toLowerCase(Locale.ROOT).contains(search);
     }
 }
