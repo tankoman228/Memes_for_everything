@@ -52,12 +52,27 @@ public class AllMemesList {
             new MemeSound("Женщина?! Жееенщина!","HOI4", "хойка, женщины", R.raw.a47, R.drawable.a47),
             new MemeSound("ВММЖТПОПРИКБ","Хортон видит ктошек", "в моём мире живут только пони", R.raw.a49, R.drawable.a49),
             new MemeSound("ЯЛКВМОМ","Ютуб", "Я люблю, когда волосатые мужики", R.raw.a50, R.drawable.a50),
+            new MemeSound("Я педофил, находящийся по арестом","Ютуб", "секс, мем, малыш, барбоскины", R.raw.a51, R.drawable.a51),
             new MemeSound("2 пакетика травы","Ютуб", "наркотики зло", R.raw.a52, R.drawable.a52),
+            new MemeSound("А он нам и нахуй не нужон","Ютуб", "интернет ваш", R.raw.a53, R.drawable.a53),
+            new MemeSound("Нет, маленькая жирная жопа","Реклама", "Ютуб", R.raw.a60, R.drawable.a60),
+            new MemeSound("Ебись оно всё в три прогиба","Ведьмак", "пиздец", R.raw.a68, R.drawable.a68),
+            new MemeSound("underidoderidoderiododeridoo","Речь Черчилля", "черчиль", R.raw.a72, R.drawable.a72),
+            new MemeSound("Я тут подсчитал, циферки прикинул","Гадкий я", "это невозможно, я не волшебник", R.raw.a73, R.drawable.a73),
+            new MemeSound("Что такое доброта","Ютуб", "детская песенка", R.raw.a80, R.drawable.a80),
             new MemeSound("К Элизе","Классическая музыка", "классика", R.raw.a81, R.drawable.a81),
             new MemeSound("Совсем неожиданное заявление","Доктор Ливси", "сейчас мы будем заниматься сексом", R.raw.a83, R.drawable.a83),
+            new MemeSound("I don not wish to be horny anymore","Ютуб", "silence wench, doge, собака", R.raw.a111, R.drawable.a111),
+            new MemeSound("Любой ценой, но бесплатно","Поднебесный", "секс, женщины, порно", R.raw.a115, R.drawable.a115),
+            new MemeSound("ДАЙТЕ СЕКС!","Поднебесный", "секс, женщины, порно", R.raw.a116, R.drawable.a116),
+            new MemeSound("Пульт от ядерки","?", "просто дайте мне уже, пиздец", R.raw.a121, R.drawable.a121),
+            new MemeSound("Ёб, твою мать, красотища какая","Церковь", "бог, еб твою мать", R.raw.a144, R.drawable.a144),
+
             new MemeSound("Это классика, это знать надо","Зелёный слоник", "зеленый слоник", R.raw.a150, R.drawable.a150),
             new MemeSound("А я знаю, что ты др...","Ютуб", "секс, дрочешь, недрочабрь", R.raw.a152, R.drawable.a152),
-            new MemeSound("UwW","Ня", "аниме, няшки, милашка, фембои, женщины, девушки, секс", R.raw.a155, R.drawable.a155),
+            new MemeSound("UwU","Ня", "аниме, няшки, милашка, фембои, женщины, девушки, секс", R.raw.a155, R.drawable.a155),
 
+            new MemeSound("О, да, маквин готов","Тачки", "мать шлюха", R.raw.a171, R.drawable.a171),
+            new MemeSound("SCP Сосааааать","SCP, ютуб", "сосать", R.raw.a173, R.drawable.a173),
     };
 }
