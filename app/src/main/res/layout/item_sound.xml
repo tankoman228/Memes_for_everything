@@ -7,24 +7,24 @@
 
     <ImageButton
         android:id="@+id/image_button"
-        android:layout_width="100sp"
+        android:layout_width="match_parent"
         android:layout_height="100sp"
         android:scaleType="fitCenter"
         android:src="@android:drawable/ic_dialog_alert" />
 
     <TextView
         android:id="@+id/sound_name"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="1sp"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:layout_marginTop="8dp"
         android:textSize="14sp" />
 
     <TextView
         android:id="@+id/sound_source"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="1sp"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:layout_marginTop="8dp"
         android:textSize="12sp" />
 </LinearLayout>
