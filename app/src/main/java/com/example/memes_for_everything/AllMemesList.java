@@ -49,6 +49,7 @@ public class AllMemesList {
             new MemeSound("Гойда","Хз, кто это", "Россия", R.raw.a42, R.drawable.a42),
             new MemeSound("Аллах Акбар","Ислам", "Террористы, терроризм", R.raw.a43, R.drawable.a43),
             new MemeSound("Мортал комбат","Музыка", "", R.raw.a44, R.drawable.a44),
+            new MemeSound("ААААААА Жееенщина!","HOI4", "хойка, женщины", R.raw.a46, R.drawable.a46),
             new MemeSound("Женщина?! Жееенщина!","HOI4", "хойка, женщины", R.raw.a47, R.drawable.a47),
             new MemeSound("ВММЖТПОПРИКБ","Хортон видит ктошек", "в моём мире живут только пони", R.raw.a49, R.drawable.a49),
             new MemeSound("ЯЛКВМОМ","Ютуб", "Я люблю, когда волосатые мужики", R.raw.a50, R.drawable.a50),
