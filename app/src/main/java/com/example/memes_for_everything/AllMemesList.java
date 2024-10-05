@@ -99,5 +99,24 @@ public class AllMemesList {
             new MemeSound("Шикарный план, надёжный как швейцарские часы","Ютуб", "Мемы", R.raw.a172, R.drawable.a172),
             new MemeSound("SCP Сосааааать","SCP, ютуб", "сосать", R.raw.a173, R.drawable.a173),
             new MemeSound("Directed By Robert Weide","Ютуб", "пиздец", R.raw.a174, R.drawable.a174),
+
+            new MemeSound("Ass we can","GachiMuchi", "гачимучи gachimuchi", R.raw.a175, R.drawable.a175),
+            new MemeSound("Celebrate and suck some dick","GachiMuchi", "гачимучи gachimuchi", R.raw.a176, R.drawable.a176),
+            new MemeSound("Fisting is 300$","GachiMuchi", "гачимучи gachimuchi", R.raw.a177, R.drawable.a177),
+            new MemeSound("Fuck you","GachiMuchi", "гачимучи gachimuchi", R.raw.a178, R.drawable.a178),
+            new MemeSound("Fuck you, leatherman","GachiMuchi", "гачимучи gachimuchi", R.raw.a179, R.drawable.a179),
+            new MemeSound("Bondage gay website","GachiMuchi", "гачимучи gachimuchi", R.raw.a180, R.drawable.a180),
+            new MemeSound("Stick you finger in my ass","GachiMuchi", "гачимучи gachimuchi", R.raw.a181, R.drawable.a181),
+            new MemeSound("Swallow my cum","GachiMuchi", "гачимучи gachimuchi", R.raw.a182, R.drawable.a182),
+            new MemeSound("Thank you sir","GachiMuchi", "гачимучи gachimuchi", R.raw.a183, R.drawable.a183),
+            new MemeSound("The seemen","GachiMuchi", "гачимучи gachimuchi", R.raw.a184, R.drawable.a184),
+            new MemeSound("What the hell you 2 doing","GachiMuchi", "гачимучи gachimuchi", R.raw.a185, R.drawable.a185),
+            new MemeSound("Woo","GachiMuchi", "гачимучи gachimuchi", R.raw.a186, R.drawable.a186),
+            new MemeSound("Do you like what you see?","GachiMuchi", "гачимучи gachimuchi", R.raw.a187, R.drawable.a187),
+            new MemeSound("Deep dark fantasy","GachiMuchi", "гачимучи gachimuchi", R.raw.a188, R.drawable.a188),
+            new MemeSound("Ganging up","GachiMuchi", "гачимучи gachimuchi", R.raw.a189, R.drawable.a189),
+            new MemeSound("Boss of this gym","GachiMuchi", "гачимучи gachimuchi", R.raw.a190, R.drawable.a190),
+            new MemeSound("O shit I'm sorry","GachiMuchi", "гачимучи gachimuchi", R.raw.a191, R.drawable.a191),
+            new MemeSound("Amazing","GachiMuchi", "гачимучи gachimuchi", R.raw.a192, R.drawable.a192)
     };
 }
