@@ -89,6 +89,13 @@ public class MainActivity extends AppCompatActivity {
             Columns++;
             recyclerView.setLayoutManager(new GridLayoutManager(this, Columns));
         });
+        findViewById(R.id.btnForward).setOnClickListener(l -> {
+            try {
+                mediaPlayer.seekTo(mediaPlayer.getCurrentPosition() + 3000);
+            }
+            catch (Exception e) { e.printStackTrace();}
+        });
+
 
         search();
 

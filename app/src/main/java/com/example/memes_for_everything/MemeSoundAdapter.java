@@ -34,6 +34,8 @@ public class MemeSoundAdapter extends RecyclerView.Adapter<MemeSoundAdapter.View
         holder.soundSrc.setText(memeSound.Source);
         holder.imageButton.setImageResource(memeSound.image_id);
 
+
+
         holder.imageButton.setOnClickListener(v -> {
             MainActivity.THIS.playSound(memeSound.sound_id);
         });

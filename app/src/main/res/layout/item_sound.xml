@@ -8,9 +8,9 @@
     <ImageButton
         android:id="@+id/image_button"
         android:layout_width="match_parent"
-        android:layout_height="100sp"
+        android:layout_height="120sp"
         android:scaleType="fitCenter"
-        android:src="@android:drawable/ic_dialog_alert" />
+        android:src="@drawable/a107" />
 
     <TextView
         android:id="@+id/sound_name"
@@ -18,7 +18,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="1sp"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:textSize="14sp" />
+        android:textSize="14sp"
+        android:text="название"/>
 
     <TextView
         android:id="@+id/sound_source"
@@ -26,5 +27,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="1sp"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:textSize="12sp" />
+        android:textSize="12sp"
+        android:text="autor"/>
 </LinearLayout>

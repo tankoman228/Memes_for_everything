@@ -101,6 +101,13 @@
                 android:layout_margin="3sp"
                 android:text="Меньше колонок" />
 
+            <Button
+                android:id="@+id/btnForward"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="3sp"
+                android:text="Перемотка (3с)" />
+
         </LinearLayout>
     </HorizontalScrollView>
 
