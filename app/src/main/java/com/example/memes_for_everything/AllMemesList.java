@@ -118,6 +118,9 @@ public class AllMemesList {
             new MemeSound("Boss of this gym","GachiMuchi", "гачимучи gachimuchi", R.raw.a190, R.drawable.a190),
             new MemeSound("O shit I'm sorry","GachiMuchi", "гачимучи gachimuchi", R.raw.a191, R.drawable.a191),
             new MemeSound("Amazing","GachiMuchi", "гачимучи gachimuchi", R.raw.a192, R.drawable.a192),
-            new MemeSound("Грустный хомяк","Ютуб", "грусть печаль ?", R.raw.a193, R.drawable.a193)
+            new MemeSound("Грустный хомяк","Ютуб", "грусть печаль ?", R.raw.a193, R.drawable.a193),
+
+            new MemeSound("А у зайца яйца","Виктор Пузо", "грусть печаль ?", R.raw.a194, R.drawable.a194),
+            new MemeSound("Хава Нагиля (Hava Nagila) Adolf Hitler","Сергей Аюбов feat Адольф Гитлер", "еврей аюбов гитлир нацисты нацизм nazi свастика", R.raw.a195, R.drawable.a195)
     };
 }
