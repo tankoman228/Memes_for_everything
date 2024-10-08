@@ -42,6 +42,9 @@ public class AllMemesList {
             new MemeSound("Самый лучший метод лечения геморроя","Попов", "живой огурец", R.raw.a34, R.drawable.a34),
             new MemeSound("Пожарная тревога","ГРОМКО", "огнетушитель, огонь", R.raw.a35, R.drawable.a35),
             new MemeSound("Дирижабль, ага","Титор", "", R.raw.a36, R.drawable.a36),
+
+            new MemeSound("","", "", R.raw.a37, R.drawable.a37),
+
             new MemeSound("Сер да сер","свофорд", "война, военкомат, армия", R.raw.a38, R.drawable.a38),
             new MemeSound("Расстрелять","Иосиф Сталин", "СССР, армия", R.raw.a39, R.drawable.a39),
             new MemeSound("Немецкий марш","nazi are bad!", "германия", R.raw.a40, R.drawable.a40),
@@ -52,6 +55,9 @@ public class AllMemesList {
             new MemeSound("Он обижен, он расстерян, ему сейчас нужны оба отца","Кунг-фу панда", "дота, дотер, пидоры", R.raw.a45, R.drawable.a45),
             new MemeSound("ААААААА Жееенщина!","HOI4", "хойка, женщины", R.raw.a46, R.drawable.a46),
             new MemeSound("Женщина?! Жееенщина!","HOI4", "хойка, женщины", R.raw.a47, R.drawable.a47),
+
+            new MemeSound("","", "", R.raw.a48, R.drawable.a48),
+
             new MemeSound("ВММЖТПОПРИКБ","Хортон видит ктошек", "в моём мире живут только пони", R.raw.a49, R.drawable.a49),
             new MemeSound("ЯЛКВМОМ","Ютуб", "Я люблю, когда волосатые мужики", R.raw.a50, R.drawable.a50),
             new MemeSound("Я педофил, находящийся по арестом","Ютуб", "секс, мем, малыш, барбоскины", R.raw.a51, R.drawable.a51),
@@ -60,23 +66,63 @@ public class AllMemesList {
 
             new MemeSound("Подлая еврейская музыка","Сергей Аюбов", "", R.raw.a54, R.drawable.a54),
             new MemeSound("Бобр курва","Ютуб", "", R.raw.a55, R.drawable.a55),
+
+            new MemeSound("","", "", R.raw.a56, R.drawable.a56),
+            new MemeSound("","", "", R.raw.a57, R.drawable.a57),
+
             new MemeSound("Всё","Ералаш", "все", R.raw.a58, R.drawable.a58),
 
+            new MemeSound("","", "", R.raw.a59, R.drawable.a59),
+
             new MemeSound("Нет, маленькая жирная жопа","Реклама", "Ютуб", R.raw.a60, R.drawable.a60),
+
+            new MemeSound("","", "", R.raw.a61, R.drawable.a61),
 
             new MemeSound("Но это уже совсем другая история","Каневский", "Мем", R.raw.a62, R.drawable.a62),
             new MemeSound("Я Гитлир (Гитлер), я вернулся, вам всем пиздец","Виктор Пузо", "германия, нацизм, nazi", R.raw.a63, R.drawable.a63),
 
+            new MemeSound("","", "", R.raw.a64, R.drawable.a64),
+            new MemeSound("","", "", R.raw.a65, R.drawable.a65),
+            new MemeSound("","", "", R.raw.a67, R.drawable.a67),
+
             new MemeSound("Ебись оно всё в три прогиба","Ведьмак", "пиздец", R.raw.a68, R.drawable.a68),
+
+            new MemeSound("","", "", R.raw.a69, R.drawable.a69),
+
             new MemeSound("underidoderidoderiododeridoo","Речь Черчилля", "черчиль", R.raw.a72, R.drawable.a72),
             new MemeSound("Я тут подсчитал, циферки прикинул","Гадкий я", "это невозможно, я не волшебник", R.raw.a73, R.drawable.a73),
+
+            new MemeSound("","", "", R.raw.a74, R.drawable.a74),
+            new MemeSound("","", "", R.raw.a75, R.drawable.a75),
+            new MemeSound("","", "", R.raw.a78, R.drawable.a78),
+            new MemeSound("","", "", R.raw.a79, R.drawable.a79),
+
+
             new MemeSound("Что такое доброта","Ютуб", "детская песенка", R.raw.a80, R.drawable.a80),
             new MemeSound("К Элизе","Классическая музыка", "классика", R.raw.a81, R.drawable.a81),
+
+            new MemeSound("","", "", R.raw.a82, R.drawable.a82),
+
             new MemeSound("Совсем неожиданное заявление","Доктор Ливси", "сейчас мы будем заниматься сексом", R.raw.a83, R.drawable.a83),
+
+            new MemeSound("","", "", R.raw.a84, R.drawable.a84),
 
             new MemeSound("Ой, как неожиданно и приятно","Ютуб", "", R.raw.a85, R.drawable.a85),
             new MemeSound("Ой, так нравится, ммм, долбиться в задницу","Ютуб", "ой так нравится долбиться в задницу", R.raw.a86, R.drawable.a86),
+
+            new MemeSound("","", "", R.raw.a88, R.drawable.a88),
+            new MemeSound("","", "", R.raw.a89, R.drawable.a89),
+            new MemeSound("","", "", R.raw.a90, R.drawable.a90),
+            new MemeSound("","", "", R.raw.a93, R.drawable.a93),
+            new MemeSound("","", "", R.raw.a94, R.drawable.a94),
+            new MemeSound("","", "", R.raw.a99, R.drawable.a99),
+            new MemeSound("","", "", R.raw.a101, R.drawable.a101),
+            new MemeSound("","", "", R.raw.a105, R.drawable.a105),
+            new MemeSound("","", "", R.raw.a106, R.drawable.a106),
+
             new MemeSound("Бабки, бабки, сука, бабки","Ютуб", "", R.raw.a107, R.drawable.a107),
+
+            new MemeSound("","", "", R.raw.a108, R.drawable.a108),
 
             new MemeSound("I don not wish to be horny anymore","Ютуб", "silence wench, doge, собака", R.raw.a111, R.drawable.a111),
             new MemeSound("Любой ценой, но бесплатно","Поднебесный", "секс, женщины, порно", R.raw.a115, R.drawable.a115),
@@ -87,13 +133,29 @@ public class AllMemesList {
             new MemeSound("Кремируйте её быстрее","КотБегемот", "Страшилки", R.raw.a128, R.drawable.a128),
             new MemeSound("Если б я имел коня","Ютуб", "секс, порно, жопа, пидор", R.raw.a131, R.drawable.a131),
 
+            new MemeSound("","", "", R.raw.a132, R.drawable.a132),
+
             new MemeSound("Ёб, твою мать, красотища какая","Церковь", "бог, еб твою мать", R.raw.a144, R.drawable.a144),
+
+            new MemeSound("","", "", R.raw.a145, R.drawable.a145),
+            new MemeSound("","", "", R.raw.a146, R.drawable.a146),
+            new MemeSound("","", "", R.raw.a147, R.drawable.a147),
+            new MemeSound("","", "", R.raw.a148, R.drawable.a148),
 
             new MemeSound("Это классика, это знать надо","Зелёный слоник", "зеленый слоник", R.raw.a150, R.drawable.a150),
             new MemeSound("А я знаю, что ты др...","Ютуб", "секс, дрочешь, недрочабрь", R.raw.a152, R.drawable.a152),
             new MemeSound("UwU","Ня", "аниме, няшки, милашка, фембои, женщины, девушки, секс", R.raw.a155, R.drawable.a155),
 
+            new MemeSound("","", "", R.raw.a158, R.drawable.a158),
+            new MemeSound("","", "", R.raw.a159, R.drawable.a159),
+
             new MemeSound("Мы сдохнем, мы все обязательно","Ютуб", "здохнем", R.raw.a160, R.drawable.a160),
+
+            new MemeSound("","", "", R.raw.a161, R.drawable.a161),
+            new MemeSound("","", "", R.raw.a163, R.drawable.a163),
+            new MemeSound("","", "", R.raw.a167, R.drawable.a167),
+            new MemeSound("","", "", R.raw.a168, R.drawable.a168),
+            new MemeSound("","", "", R.raw.a170, R.drawable.a170),
 
             new MemeSound("О, да, маквин готов","Тачки", "мать шлюха", R.raw.a171, R.drawable.a171),
             new MemeSound("Шикарный план, надёжный как швейцарские часы","Ютуб", "Мемы", R.raw.a172, R.drawable.a172),
@@ -121,6 +183,15 @@ public class AllMemesList {
             new MemeSound("Грустный хомяк","Ютуб", "грусть печаль ?", R.raw.a193, R.drawable.a193),
 
             new MemeSound("А у зайца яйца","Виктор Пузо", "грусть печаль ?", R.raw.a194, R.drawable.a194),
-            new MemeSound("Хава Нагиля (Hava Nagila) Adolf Hitler","Сергей Аюбов feat Адольф Гитлер", "еврей аюбов гитлир нацисты нацизм nazi свастика", R.raw.a195, R.drawable.a195)
+            new MemeSound("Хава Нагиля (Hava Nagila) Adolf Hitler","Сергей Аюбов feat Адольф Гитлер", "еврей аюбов гитлир нацисты нацизм nazi свастика", R.raw.a195, R.drawable.a195),
+
+            new MemeSound("","", "", R.raw.a199, R.drawable.a199),
+            new MemeSound("","", "", R.raw.a205, R.drawable.a205),
+            new MemeSound("","", "", R.raw.a206, R.drawable.a206),
+            new MemeSound("","", "", R.raw.a207, R.drawable.a207),
+            new MemeSound("","", "", R.raw.a208, R.drawable.a208),
+            new MemeSound("","", "", R.raw.a229, R.drawable.a229),
+            new MemeSound("","", "", R.raw.a232, R.drawable.a232),
+            new MemeSound("","", "", R.raw.a233, R.drawable.a233),
     };
 }
