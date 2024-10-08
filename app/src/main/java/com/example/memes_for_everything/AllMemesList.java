@@ -49,7 +49,7 @@ public class AllMemesList {
             new MemeSound("Гойда","Хз, кто это", "Россия", R.raw.a42, R.drawable.a42),
             new MemeSound("Аллах Акбар","Ислам", "Террористы, терроризм", R.raw.a43, R.drawable.a43),
             new MemeSound("Мортал комбат","Музыка", "", R.raw.a44, R.drawable.a44),
-            new MemeSound("Он обижжен, он расстерян, ему сейчас нужны оба отца","Кунг-фу панда", "дота, дотер, пидоры", R.raw.a45, R.drawable.a45),
+            new MemeSound("Он обижен, он расстерян, ему сейчас нужны оба отца","Кунг-фу панда", "дота, дотер, пидоры", R.raw.a45, R.drawable.a45),
             new MemeSound("ААААААА Жееенщина!","HOI4", "хойка, женщины", R.raw.a46, R.drawable.a46),
             new MemeSound("Женщина?! Жееенщина!","HOI4", "хойка, женщины", R.raw.a47, R.drawable.a47),
             new MemeSound("ВММЖТПОПРИКБ","Хортон видит ктошек", "в моём мире живут только пони", R.raw.a49, R.drawable.a49),
@@ -117,6 +117,7 @@ public class AllMemesList {
             new MemeSound("Ganging up","GachiMuchi", "гачимучи gachimuchi", R.raw.a189, R.drawable.a189),
             new MemeSound("Boss of this gym","GachiMuchi", "гачимучи gachimuchi", R.raw.a190, R.drawable.a190),
             new MemeSound("O shit I'm sorry","GachiMuchi", "гачимучи gachimuchi", R.raw.a191, R.drawable.a191),
-            new MemeSound("Amazing","GachiMuchi", "гачимучи gachimuchi", R.raw.a192, R.drawable.a192)
+            new MemeSound("Amazing","GachiMuchi", "гачимучи gachimuchi", R.raw.a192, R.drawable.a192),
+            new MemeSound("Грустный хомяк","Ютуб", "грусть печаль ?", R.raw.a193, R.drawable.a193)
     };
 }
